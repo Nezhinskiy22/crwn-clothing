@@ -7,7 +7,6 @@ import {
   updateCollections,
 } from "../../redux/shop/shop.actions";
 import WithSpinner from "../../components/with-spinner/with-spinner.component";
-
 import CollectionPage from "../collection/collection.component";
 import { createStructuredSelector } from "reselect";
 import {
